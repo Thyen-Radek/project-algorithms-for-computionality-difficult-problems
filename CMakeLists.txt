@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(project_algorithms_for_computionality_difficult_problems)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(project_algorithms_for_computionality_difficult_problems main.cpp)
