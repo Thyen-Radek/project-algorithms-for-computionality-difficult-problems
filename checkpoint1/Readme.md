@@ -1,6 +1,8 @@
-This checkpoint is implemented using heuristic approach
+# Checkpoint 1
 
 Map: 98x3
+
+This checkpoint is implemented using heuristic approach:
 
 - Going from top (exit) to bottom (my_car) i look for any cars that are blocking
 - Whenever i find one i try to move it and then recursively move any other car that is blocking that one
